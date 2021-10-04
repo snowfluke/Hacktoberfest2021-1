@@ -18,6 +18,7 @@
 |Karan| .[karanS08](https://github.com/karanS08)|
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
+| hiko | [xhiko1](https://github.com/xhiko1) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
 
 
